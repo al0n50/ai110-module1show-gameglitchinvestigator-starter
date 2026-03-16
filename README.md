@@ -25,13 +25,11 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+Collaborating with VS Code Copilot on this project taught me that AI is an incredible tool for explaining unfamiliar code and generating test cases, but it requires strict human oversight. I learned that AI can sometimes suggest overly complex workarounds (like adding try/except blocks) when the best solution is simply deleting a flawed line of code. Moving forward, my primary strategy when using AI is to carefully review the "diff" of any generated code and test it extensively before accepting it into my main project.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [![alt text](image.png) ] 
 
 ## 🚀 Stretch Features
 
